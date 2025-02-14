@@ -1,0 +1,16 @@
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\bin\Debug\net9.0\FullStackApp.Business.deps.json
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\bin\Debug\net9.0\FullStackApp.Business.dll
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\bin\Debug\net9.0\FullStackApp.Business.pdb
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\bin\Debug\net9.0\FullStackApp.Data.dll
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\bin\Debug\net9.0\FullStackApp.Data.pdb
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStackApp.Business.csproj.AssemblyReference.cache
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStackApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStackApp.Business.AssemblyInfoInputs.cache
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStackApp.Business.AssemblyInfo.cs
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStackApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStackApp.Business.sourcelink.json
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStac.1A9ED52F.Up2Date
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStackApp.Business.dll
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\refint\FullStackApp.Business.dll
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\FullStackApp.Business.pdb
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Business\obj\Debug\net9.0\ref\FullStackApp.Business.dll

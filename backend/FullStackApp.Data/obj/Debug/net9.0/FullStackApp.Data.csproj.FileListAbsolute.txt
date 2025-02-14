@@ -1,0 +1,12 @@
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\bin\Debug\net9.0\FullStackApp.Data.deps.json
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\bin\Debug\net9.0\FullStackApp.Data.dll
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\bin\Debug\net9.0\FullStackApp.Data.pdb
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\FullStackApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\FullStackApp.Data.AssemblyInfoInputs.cache
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\FullStackApp.Data.AssemblyInfo.cs
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\FullStackApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\FullStackApp.Data.sourcelink.json
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\FullStackApp.Data.dll
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\refint\FullStackApp.Data.dll
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\FullStackApp.Data.pdb
+C:\Users\SKA97-MINIDESKY\Documents\WorkSpace\fullstack-100-day-challenge\backend\FullStackApp.Data\obj\Debug\net9.0\ref\FullStackApp.Data.dll

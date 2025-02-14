@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FullStackApp.Business/1.0.0": {
+        "dependencies": {
+          "FullStackApp.Data": "1.0.0"
+        },
+        "runtime": {
+          "FullStackApp.Business.dll": {}
+        }
+      },
+      "FullStackApp.Data/1.0.0": {
+        "runtime": {
+          "FullStackApp.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FullStackApp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FullStackApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

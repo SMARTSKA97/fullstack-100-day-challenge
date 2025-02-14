@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwVi6L+kpek=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SKA97-MINIDESKY\\Documents\\WorkSpace\\fullstack-100-day-challenge\\backend\\FullStackApp.Api\\FullStackApp.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SKA97-MINIDESKY\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\SKA97-MINIDESKY\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
